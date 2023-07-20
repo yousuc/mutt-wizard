@@ -1,0 +1,17 @@
+ADDRESS,IMAP,imap port,SMTP,smtp port
+donutbleet.com,donutbleet.com,993,donutbleet.com,465
+email.com,imap.mail.com,993,smtp.mail.com,587
+gmail.com,imap.gmail.com,993,smtp.gmail.com,587
+googlemail.com,imap.googlemail.com,993,smtp.googlemail.com,587
+hotmail.*,outlook.office365.com,993,smtp.office365.com,587
+icloud.com,imap.mail.me.com,993,smtp.mail.me.com,587
+live.com,imap-mail.outlook.com,993,smtp-mail.outlook.com,587
+mac.com,imap.mail.me.com,993,smtp.mail.me.com,587
+mail.com,imap.mail.com,993,smtp.mail.com,587
+mailbox.org,imap.mailbox.org,993,smtp.mailbox.org,587
+mailo.com,mail.mailo.com,993,mail.mailo.com,465
+me.com,imap.mail.me.com,993,smtp.mail.me.com,587
+msn.com,imap-mail.outlook.com,993,smtp-mail.outlook.com,587
+outlook.*,imap-mail.outlook.com,993,smtp-mail.outlook.com,587
+showmetruckingllc.com,showmetruckingllc.com,993,showmetruckingllc.com,465
+yahoo.*,imap.mail.yahoo.com,993,smtp.mail.yahoo.com,587
